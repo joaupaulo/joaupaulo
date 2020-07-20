@@ -19,7 +19,7 @@
 <br/>
 
 
-Como escrito a cima meu nome é,João Paulo,sou desenvolvedor web,mas gosto também de me envolver com a área de marketing e publicidade,a alguns anos atrás fazia assinaturas em fóruns de Mu Online,com isso acabei aprendendo meio que automático a utilizar o photoshop  <img  alt="photoshop"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/adobephotoshop.svg" />  e fazer alguns efeito,ao passar do tempo fui me aperfeiçoando e sei utilizar o figma <img  alt="figma"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/figma.svg" />
+Como escrito a cima meu nome é,João Paulo,sou desenvolvedor web,mas gosto também de me envolver com a área de marketing e publicidade,a alguns anos atrás fazia assinaturas em fóruns de Mu Online,com isso acabei aprendendo meio que automático a utilizar o photoshop  <img  alt="photoshop"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/adobephotoshop.svg" />  e fazer alguns efeitos,ao passar do tempo fui me aperfeiçoando e sei utilizar o figma <img  alt="figma"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/figma.svg" />
   e adobe xd  <img  alt="adobexd"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/adobexd.svg" />
 .
 
